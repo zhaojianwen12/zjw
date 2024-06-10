@@ -1,4 +1,4 @@
 alpine
 nginx
 jc21/nginx-proxy-manager
-hslr/sun-panel:1.5.0-beta24-05-10
+hslr/sun-panel
