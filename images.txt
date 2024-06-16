@@ -2,3 +2,4 @@ alpine
 nginx
 jc21/nginx-proxy-manager
 hslr/sun-panel
+adguard/adguardhome
